@@ -30,10 +30,6 @@ public class Day25_MoreStrings2 {
 			System.out.println(auto [i]);
 		}
 		
-		String wOrld = "!2#4Ef%hD)7%ot+W{54$#";
-		String aaa = wOrld.replaceAll("[A-Za-z0-9]", "");
-				System.out.println(aaa.length());
-		
 		
 	}
 
